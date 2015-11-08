@@ -1,0 +1,26 @@
+{
+  "name": "base62sequence",
+  "version": "0.0.1",
+  "description": "Sequences to increment in base 62",
+  "main": "index.js",
+  "author": "Vijayee Kulkaa",
+  "keywords": [
+    "Base62",
+    "Sequence"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijayee/base62sequence.git"
+  },
+  "license": "GPLV3",
+  "bugs": {
+    "url": "https://github.com/vijayee/base62sequence/issues"
+  },
+  "homepage": "https://github.com/vijayee/base62sequence#readme",
+  "dependencies": {
+    "power-radix": "^2.3.3"
+  }
+}
