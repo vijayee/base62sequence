@@ -1,5 +1,5 @@
 /*
-    This module starts a sequence from the given base10 or base64 encoded integer
+    This module starts a sequence from the given base10 or base62 encoded integer
 */
 var B62 = [
     '0', '1', '2', '3', '4', '5', '6', '7', '8', '9',
